@@ -9,7 +9,7 @@
 	}
 
 	body {
-		background-color: #FEF5CA;
+		background-color: white;
 
 	}
 
@@ -22,14 +22,14 @@
 		border: none;
 		margin-left: auto;
 		margin-right: auto;
-		margin-top: 10px;
+		margin-top: 50px;
 		margin-bottom: 10px;
 		padding: 10px;
 	}
 
 	section {
 		border:	1px solid black;
-		background-color: #00FF99;
+		background-color: #B6BDC4;
 		width: 100%;
 		height: 200px;
 		font-family: Helvetica;
@@ -63,7 +63,7 @@
 		margin-bottom: 0;
 		margin-top: 0;
 		padding: 5px;
-		background-color: #FF1439;
+		background-color: #0BA23F;
 	}
 
 	#sushi {
@@ -76,8 +76,8 @@
 		font-size: 125%;
 		margin-bottom: 0;
 		margin-top: 0;
-		background-color: #6495ED;
-		color: white;
+		background-color: #0B77BF;
+		color: black;
 		padding: 5px;
 	}
 
